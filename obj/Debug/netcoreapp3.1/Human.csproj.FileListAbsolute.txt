@@ -1,0 +1,11 @@
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Human\bin\Debug\netcoreapp3.1\Human.exe
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Human\bin\Debug\netcoreapp3.1\Human.deps.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Human\bin\Debug\netcoreapp3.1\Human.runtimeconfig.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Human\bin\Debug\netcoreapp3.1\Human.runtimeconfig.dev.json
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Human\bin\Debug\netcoreapp3.1\Human.dll
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Human\bin\Debug\netcoreapp3.1\Human.pdb
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Human\obj\Debug\netcoreapp3.1\Human.csprojAssemblyReference.cache
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Human\obj\Debug\netcoreapp3.1\Human.AssemblyInfoInputs.cache
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Human\obj\Debug\netcoreapp3.1\Human.AssemblyInfo.cs
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Human\obj\Debug\netcoreapp3.1\Human.dll
+C:\Users\jhira\Documents\MEGAsync\Coding Dojo\DotNet\Human\obj\Debug\netcoreapp3.1\Human.pdb
